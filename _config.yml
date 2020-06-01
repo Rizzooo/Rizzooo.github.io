@@ -1,11 +1,11 @@
 # Site settings
-author: Ronald Burrell Jr.
-title: 
+author: Ronald M. Burrell Jr.
+title: Pacing
 header-img: img/home-bg.png
 email: ronburrell05@gmail.com
-copyright_name: Ronald Burrell Jr.
+copyright_name: Ronald M. Burrell Jr.
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Sprinter Beginning The First Mile
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Rizzooo
