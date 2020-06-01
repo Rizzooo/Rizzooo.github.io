@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "**My 'WHY'?**"
-date:       2020-06-01 18:11:20 +0000
+title:      "Why Software Engineering "
+date:       2020-06-01 14:11:21 -0400
 permalink:  my_why
 ---
 
