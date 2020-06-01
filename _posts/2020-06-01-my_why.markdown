@@ -1,0 +1,23 @@
+---
+layout: post
+title:      "**My 'WHY'?**"
+date:       2020-06-01 18:11:20 +0000
+permalink:  my_why
+---
+
+
+I've always known I'd make a career out of my curiousity, but the avenue down which I'd take it was a mystery. Little did I know, that strong curiosity and my enduring, powerful gravitation/interest in technology and computers would make a great pair (and even better career-choice)! Initially, I decided to pursue a career in the core sciences. I'd always loved research, and had conducted countless, poorly thought through experiements as a child solely to answer miniscule, yet personally-intriguing, questions. Bringing that to an actually laboratory where I could do what interested me and help people along that way seemed like the best option. However, as I went through the first few semesters in college, I realized while I enjoyed science and the interesting concepts it brings to light, I didn't feel that insatiable thirst for knowledge that I once did (especially in regards to my major at the time, Chemistry). Up until this point I never needed to set aside time to study or force myself to read the articles; I did it because I enjoyed it, and found the information interesting. Losing this in myself brought on incredibly strong anxiety about what I'd be doing for the years to come. All that I knew for certain was that I belonged in a science field where I'd be able to continually perfect my craft, assist others in some way and most importantly enjoy the process. 
+
+That's what I found in Computer Science / Software Engineering. Not only am I able to work and learn in an atmosphere that makes me most comfortable and enhances my effeciency, but I love it! The different things you can do with your programs and code are seemingly endless and that fact alone drives me to continue to learn and get better (not to mention the real-life applications can be so cool)!
+
+I'm excited to begin the journey here, with Flatiron School, and can't wait to see what the future holds.
+
+UPDATES:
+* Doing well so far. Proceeding through the lessons at a good pace. Actually started off a bit behind because I was unknowingly working in the 'Intro. to JavaScript' tab in lieu of the 'First Mile' tab, but once I began the actually course-work, I got into a flow and just couldn't stop!
+* No huge setbacks or struggles so far. I've definitely had some trouble with syntax and code in general but the community's been great in helping me as well as many of others.
+* As I continue to code and practice, things are getting easier! Some things that I'd be forgetting a couple weeks ago, I'm doing out pretty much of of habit. It feels GREAT to see improvement! Hungry for more!
+
+
+
+
+
