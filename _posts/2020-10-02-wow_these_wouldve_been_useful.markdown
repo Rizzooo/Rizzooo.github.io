@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Wow. These Would've Been Useful!"
-date:       2020-10-02 16:09:23 +0000
+date:       2020-10-02 12:09:24 -0400
 permalink:  wow_these_wouldve_been_useful
 ---
 
@@ -14,10 +14,12 @@ In this example the local variables ‘user’ and ‘game’ are used to replac
 user = User.find_by(:username => “User”)
 
 game = Game.find_by(:title = “Title”)
-
 ```
 
-# **Important Methods added by has_many: **
+# Important Methods added by has_many: 
+```
+has_many :games
+```
 
 **.collection**
 
@@ -71,6 +73,9 @@ This method allows us to find objects (games) belonging to the collection (user)
 
 
 # Important Methods added by belongs_to: 
+```
+belongs_to :user
+```
 
 **.association**
 
