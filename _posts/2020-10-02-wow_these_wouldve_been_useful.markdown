@@ -8,12 +8,12 @@ permalink:  wow_these_wouldve_been_useful
 
 For those who struggled to understand or didn’t utilize the methods available for use through our has_many and belongs_to associations (like I did for some reason), here’s a run-down of some of the most useful methods when associating two objects. 
 
-In this example the local variables ‘user’ and ‘game’ are used to replace ‘.collection’ and ‘.association’ respectively.
+In this example the local variables ‘game’ and ‘user’ are used to replace ‘.collection’ and ‘.association’ respectively.
 
 ```
-user = User.find_by(:username => “User”)
-
 game = Game.find_by(:title = “Title”)
+
+user = User.find_by(:username => “User”)
 ```
 
 # Important Methods added by has_many: 
